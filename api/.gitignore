@@ -4,3 +4,5 @@ node_modules
 nodemon.json
 uploads/images/*
 !uploads/images/.gitkeep
+.vercel
+.env*
